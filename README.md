@@ -12,9 +12,13 @@
 
 ### Présentation Personnelle
 
-//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : I've been more of a artist than a designer my entire life. As a contemporary art pratice major back home in India and then coming to ESAD as a Digital Art and Design student was a challenge and an experiment that I absolutely looked forward to and its been amazing so far. Currently I am looking to expand my knowledge in the 3D space, web deisgn and Graphic Design space. Blender, Unity, Figma, Midjourney and everything else has been a very new experience. I want to get indepth knowledge and up my skillset with these softwares. I also want to delve deep into design srudies and design theories. I want to experiment with Illustrator and Photoshop and gain a deep knowledge of design studies in general and find my design practice. 
+//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : 
 
-In long term I want to be able to run my own art and design studio. I don't have an complete idea but I do have an utline, I want to run Design agency and at the same time have my own studio for printmaking and painting. 
+I've been more of a artist than a designer my entire life. As a contemporary art pratice major back home in India and then coming to ESAD as a Digital Art and Design student was a challenge and an experiment that I absolutely looked forward to and its been amazing so far. 
+
+In short term I am currently looking to expand my knowledge in the 3D space, web deisgn and Graphic Design. Blender, Unity, Figma, Midjourney, Unreal engine and everything else has been a very new experience. I want to get indepth knowledge and up my skillset with these softwares. I also want to delve deep into design studies and design theories. I want to experiment with Illustrator and Photoshop and gain a deep knowledge of design studies in general and find my design practice. 
+
+In long term I want to be able to run my own art and design studio. I don't have an complete idea but I do have an outline, I want to run my own design agency and at the same time have my own art studio for printmaking and painting. I want to live as an artist and designer while managing my responsisbilites back home. 
 
 ### Compétences Actuelles
 
@@ -22,17 +26,17 @@ In long term I want to be able to run my own art and design studio. I don't have
 
 // notez vous avec une note entre 0 et 20 pour chaque compétence et rajoutez une petite description 
 
-**CODING**
+**CODING - 0 - I have no prior experience nor have I experimented or learned coding before**
 
-**GIT ET VERSIONNING**
+**GIT ET VERSIONNING - 0 - same as coding, completely new to this field of study**
 
-**INTERACTIVITÉ ET RENDU TEMPS RÉEL**
+**INTERACTIVITÉ ET RENDU TEMPS RÉEL - 0 - I have seen my friends work with this but I have never tried for myself before**
 
-**GRAPHISME ET DESIGN D'INTERFACE**
+**GRAPHISME ET DESIGN D'INTERFACE - 11 ou 12 - I have relatively good experience with graphisme and design interphase, I have a pretty good knowledge of illustrator, figma and other softwares and I have been part of branding and marketing work for my iternship last summer**
 
-**INSTALLATION ET MISE EN ESPACE**
+**INSTALLATION ET MISE EN ESPACE - 15 - As a comtemporary art major back home, I have worked a good amount with installation and spaces**
 
-**PRÉSENTATION ET ARGUMENTATION**
+**PRÉSENTATION ET ARGUMENTATION - 18 - I am very good with presenting and conceptualizing my work, though I am afraid something thing could get lost in translation here I am positive in trying :)**
 
 
 
