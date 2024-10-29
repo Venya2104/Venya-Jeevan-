@@ -12,7 +12,9 @@
 
 ### Présentation Personnelle
 
-//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : 
+//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : I've been more of a artist than a designer my entire life. As a contemporary art pratice major back home in India and then coming to ESAD as a Digital Art and Design student was a challenge and an experiment that I absolutely looked forward to and its been amazing so far. Currently I am looking to expand my knowledge in the 3D space, web deisgn and Graphic Design space. Blender, Unity, Figma, Midjourney and everything else has been a very new experience. I want to get indepth knowledge and up my skillset with these softwares. I also want to delve deep into design srudies and design theories. I want to experiment with Illustrator and Photoshop and gain a deep knowledge of design studies in general and find my design practice. 
+
+In long term I want to be able to run my own art and design studio. I don't have an complete idea but I do have an utline, I want to run Design agency and at the same time have my own studio for printmaking and painting. 
 
 ### Compétences Actuelles
 
