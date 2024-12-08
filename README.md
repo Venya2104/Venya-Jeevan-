@@ -46,23 +46,23 @@ In long term I want to be able to run my own art and design studio. I don't have
 
 ### A Text Based Game with Twine
 
-- **WHOOPS YOU GOT KILLED!:**   
-- **Whoops You Got Killed, is a text based non linear, choice based game. It is about a out of context plot which takes you through a journey where you get killed randomly depending on the choice you make. Throughout the story there are various choices that you can make but only one of the choices will take you to the end of the story after you finish a quest. It is a unserious fun plot and its made to go at a fast phase.:** 
+- **WHOOPS YOU GOT KILLED!**   
+- **Whoops You Got Killed, is a text based non linear, choice based game. It is about a out of context plot which takes you through a journey where you get killed randomly depending on the choice you make. Throughout the story there are various choices that you can make but only one of the choices will take you to the end of the story after you finish a quest. It is a unserious fun plot and its made to go at a fast phase.** 
 
 ### Thématiques de Recherche
 
-- **Quick and simple , questional but attention grabbing short stories. Unfiltered and uncensored kind of humour. :**   
-- **Well I chose this genre of story to work with because my mind flows freely when I am coming up with things like this. My usual calculated, thought out planning process is juxtoposed when I am able to just get in there and start building something and see where it goes, instead of deciding a end result and then working on it. The fact that I didn't have to have everything figure out in the beginning itself helped me stay sane. :** 
+- **Quick and simple , questional but attention grabbing short stories. Unfiltered and uncensored kind of humour.**   
+- **Well I chose this genre of story to work with because my mind flows freely when I am coming up with things like this. My usual calculated, thought out planning process is juxtoposed when I am able to just get in there and start building something and see where it goes, instead of deciding a end result and then working on it. The fact that I didn't have to have everything figure out in the beginning itself helped me stay sane.** 
 
 ## Twine and CSS
 
-- **Being very new to digital sofware and even newer to code this was something that kept my interest in learning going. I love figuring out things that are new to me, that I am not good at yet so it was plus.:**   
-- **I learned to format my story with CSS, I have basic understanding of basic codes, all of which I didnt't end up using for creating this game, My got to learn in none the less. :** 
+- **Being very new to digital sofware and even newer to code this was something that kept my interest in learning going. I love figuring out things that are new to me, that I am not good at yet so it was plus.**   
+- **I learned to format my story with CSS, I have basic understanding of basic codes, all of which I didnt't end up using for creating this game, My got to learn in none the less.** 
 
 ## Références Artistiques
 
-- **I think personally for me, the relevance is that I got to understand how code works, how linking files and sources works. Its a game that is laid back, fun and out of the box wack. It is something that can come in very handy to play just to get a breather and unwind. :**   
-- **I got to now an insane amount of game creators through this project, I think my favorite rght now should be Pipin Bar and creaters from crows crows crows. The temple of no was the biggest inspiration for this project. I would have played that game atleast 7 times to understand the creation of it better.  :** 
+- **I think personally for me, the relevance is that I got to understand how code works, how linking files and sources works. Its a game that is laid back, fun and out of the box wack. It is something that can come in very handy to play just to get a breather and unwind.**   
+- **I got to now an insane amount of game creators through this project, I think my favorite rght now should be Pipin Bar and creaters from crows crows crows. The temple of no was the biggest inspiration for this project. I would have played that game atleast 7 times to understand the creation of it better.** 
 
 
 
@@ -109,6 +109,34 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 
 # Journal de bord
+
+
+**I. WRITING STORY AND MAKING A BASIC FLOWCHART IN FIGMA:**
+
+**The story is in first person narrative with a bit of fourth wall breaking. It starts with soemone living near a beach and taking a walk where they find three objects. Each of the choices lead to different scenerios but only one leads to a quest in space where majority of the story takes place. It has a peculiar yet a fun way of getting across messages and points. Some comments of world politics and overall the most random experience you can have.**
+
+**Find initial planning of story here:**
+![Whoops You Got Killed! - Text Story Board](https://github.com/user-attachments/assets/f9a3da28-6afe-4378-a293-5d7b5c74a157)
+
+**II. PUTTING ALL THE TEXT IN TWINE:**
+
+This was a fun step where I got to see the game come to life little by little. I added all the choices, connected all the passages, made required changed to text and then the basic skeleton and foundation was ready. 
+
+**Find a few process pictures here:**
+![Process Picture 1](https://github.com/user-attachments/assets/e0d65440-257f-48bd-aac9-b706a7cb5c59)
+![Process Picture 2](https://github.com/user-attachments/assets/5fb5bcf8-2f96-4706-a4c2-fb50bd7f6c53)
+![Process Picture 3](https://github.com/user-attachments/assets/16be8e84-89fc-4394-a5f6-0996805e9a62)
+
+**III. ADDING ILLUSTRATIONS AND MUSIC:**
+
+**Most fun part :) and also I realised there are a lot of alignment changed I need to do. So this work is currently underway along with the work of adding music.**
+
+**A look at the Title Card and landing page of the game:**
+![First Passage and Title Card](https://github.com/user-attachments/assets/4fa2ca88-9e9a-40c8-9ef5-f53ac39d6693)
+
+
+
+
 
 
 
