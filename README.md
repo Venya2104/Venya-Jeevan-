@@ -44,25 +44,25 @@ In long term I want to be able to run my own art and design studio. I don't have
 
 # Projet 1
 
-### Sujet de Projet
+### A Text Based Game with Twine
 
-- **Titre du projet :**   
-- **Description du projet (environ 150 mots) :** 
+- **WHOOPS YOU GOT KILLED!:**   
+- **Whoops You Got Killed, is a text based non linear, choice based game. It is about a out of context plot which takes you through a journey where you get killed randomly depending on the choice you make. Throughout the story there are various choices that you can make but only one of the choices will take you to the end of the story after you finish a quest. It is a unserious fun plot and its made to go at a fast phase.:** 
 
 ### Thématiques de Recherche
 
-- **Thématiques que vous souhaitez explorer :**   
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
+- **Quick and simple , questional but attention grabbing short stories. Unfiltered and uncensored kind of humour. :**   
+- **Well I chose this genre of story to work with because my mind flows freely when I am coming up with things like this. My usual calculated, thought out planning process is juxtoposed when I am able to just get in there and start building something and see where it goes, instead of deciding a end result and then working on it. The fact that I didn't have to have everything figure out in the beginning itself helped me stay sane. :** 
 
-## Outils et Techniques
+## Twine and CSS
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
+- **Being very new to digital sofware and even newer to code this was something that kept my interest in learning going. I love figuring out things that are new to me, that I am not good at yet so it was plus.:**   
+- **I learned to format my story with CSS, I have basic understanding of basic codes, all of which I didnt't end up using for creating this game, My got to learn in none the less. :** 
 
 ## Références Artistiques
 
-- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
+- **I think personally for me, the relevance is that I got to understand how code works, how linking files and sources works. Its a game that is laid back, fun and out of the box wack. It is something that can come in very handy to play just to get a breather and unwind. :**   
+- **I got to now an insane amount of game creators through this project, I think my favorite rght now should be Pipin Bar and creaters from crows crows crows. The temple of no was the biggest inspiration for this project. I would have played that game atleast 7 times to understand the creation of it better.  :** 
 
 
 
@@ -74,7 +74,7 @@ In long term I want to be able to run my own art and design studio. I don't have
 
 // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) : 
 
-### **CRÉATION D'UN SUJET DE RECHERCHE**
+### **LANGUAGES AND PEOPLE: AN OBSERVATION AND A STUDY**
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
 
 ### Participation à un Sujet de Recherche
@@ -94,9 +94,9 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 ### Planning de Travail
 
 - Établissez un planning des étapes clés pour votre projet :
-  - **Étape 1 :** Date et description   
-  - **Étape 2 :** Date et description   
-  - **Étape 3 :** Date et description 
+  - **Étape 1 Write down story and flowchart:** 2nd December
+  - **Étape 2 Write all the texts into twine:** 5th December
+  - **Étape 3 Format the story with illustration and sound:** 10th December  
 
 
 
@@ -109,3 +109,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 
 # Journal de bord
+
+
+
+
