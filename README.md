@@ -116,6 +116,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 **The story is in first person narrative with a bit of fourth wall breaking. It starts with soemone living near a beach and taking a walk where they find three objects. Each of the choices lead to different scenerios but only one leads to a quest in space where majority of the story takes place. It has a peculiar yet a fun way of getting across messages and points. Some comments of world politics and overall the most random experience you can have.**
 
 **Find initial planning of story here:**
+
 ![Whoops You Got Killed! - Text Story Board](https://github.com/user-attachments/assets/f9a3da28-6afe-4378-a293-5d7b5c74a157)
 
 **II. PUTTING ALL THE TEXT IN TWINE:**
@@ -123,6 +124,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 This was a fun step where I got to see the game come to life little by little. I added all the choices, connected all the passages, made required changed to text and then the basic skeleton and foundation was ready. 
 
 **Find a few process pictures here:**
+
 ![Process Picture 1](https://github.com/user-attachments/assets/e0d65440-257f-48bd-aac9-b706a7cb5c59)
 ![Process Picture 2](https://github.com/user-attachments/assets/5fb5bcf8-2f96-4706-a4c2-fb50bd7f6c53)
 ![Process Picture 3](https://github.com/user-attachments/assets/16be8e84-89fc-4394-a5f6-0996805e9a62)
@@ -132,6 +134,7 @@ This was a fun step where I got to see the game come to life little by little. I
 **Most fun part :) and also I realised there are a lot of alignment changed I need to do. So this work is currently underway along with the work of adding music.**
 
 **A look at the Title Card and landing page of the game:**
+
 ![First Passage and Title Card](https://github.com/user-attachments/assets/4fa2ca88-9e9a-40c8-9ef5-f53ac39d6693)
 
 
