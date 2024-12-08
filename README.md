@@ -131,7 +131,7 @@ This was a fun step where I got to see the game come to life little by little. I
 
 **III. ADDING ILLUSTRATIONS AND MUSIC:**
 
-**Most fun part :) and also I realised there are a lot of alignment changed I need to do. So this work is currently underway along with the work of adding music.**
+**Most fun part :) and also I realised there are a lot of alignment changed I need to do. So this work is currently underway along with the work of adding music And all the illustration is done in procreate.**
 
 **A look at the Title Card and landing page of the game:**
 
